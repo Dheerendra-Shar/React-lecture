@@ -1,0 +1,21 @@
+{
+  "name": "inception_lecture_01",
+  "version": "1.0.0",
+  "description": "learnig react by Akashay",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start" :"npx parcel index.html",
+    "build" : "npx parcel build index.html"
+
+  },
+  "author": "Dheerendra",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "browserlist":["last 2 versions"]
+}
